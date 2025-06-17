@@ -81,3 +81,6 @@ def delete_item(item_id: int):
         return {"message": "item not found"}
     del items[item_id]
     return {"message": "delete success"}
+
+
+# i nan kuy
